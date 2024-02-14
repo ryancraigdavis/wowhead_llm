@@ -1,0 +1,353 @@
+Sharptalon's Claw
+Bring Sharptalon's Claw to Senani Thunderheart at Splintertree Post, Ashenvale.
+	Sharptalon's Claw (Provided)
+Relevant Locations
+The entirety of this quest happens in Ashenvale.
+
+Description
+The mighty hippogryph Sharptalon has been slain, with the claw of the felled beast serving as a testament to your victory. Senani Thunderheart at the Splintertree Post will no doubt be interested in seeing this trophy as proof of your deeds.
+
+Progress
+Yes, mighty <class>, I sensed your arrival.  I trust you have more news to report to me about your hunt?
+
+Completion
+Most impressive, <name>... the claw of Sharptalon could not have been easy to get!  The Ashenvale Hunt goes well for you!
+
+Sharptalon had long terrorized the peons from the lumber camps near its path as they tried to travel here to Splintertree Post.  No doubt once the word gets out that it was you who put down the beast, many rousing songs of your bravery will be heard at campfires and lumber mills across Ashenvale!
+
+Rewards
+You will receive: 0
+Gains
+Upon completion of this quest you will gain:
+
+    2,450 experience
+    250 reputation with Thunder Bluff
+
+Level 30
+Requires level 20
+Side: Horde
+End: Senani Thunderheart
+Not sharable
+
+
+40
+
+
+By 51773 (2,719 – 2·33) on 2008/03/26 (Patch 2.4.0)
+This quest has the distinction of being the lowest number wowhead quest (#2) that is actually accessible in game!
+
+1
+
+
+
+shawarmakriger on 2008/04/28 (Patch 2.4.1)
+The absolutely lowest number is Alexander's Quest (https://www.wowhead.com/wotlk/quest=00001). Which is not accessible in the game.
+
+21
+
+
+From AllakhazamBy Wordaen on 2008/01/07 (Patch 2.3.2)
+Subject: "Quest details"Quest details have been updated. Please let us know if this is incorrect.
+
+0
+
+
+
+bethany on 2008/01/18 (Patch 2.3.2)Subject: "Quest details"
+Senani Thunderheart (at 73, 61 in Splintertree Post across from flight master) will talk to you about the beasts, but to get the quest, you have to actually click on the dropped item (claw, head, paw). Then you can turn them in to her.
+
+Sharptalon (areas found)
+71, 71 - SW of Splintertree Post
+92, 54 - SW of Splintertree Post
+
+He is a blue flying hypogryph.
+
+Shadumbra (area found 56, 56 Raynewood Retreat, central Ashenvale))
+She is a black panther
+
+Ursangous (area found 43, 68 Talondeep Path, big lake in south Ashenvale)
+
+He is a silver bear.
+
+For the Horde!
+
+[small]E
+
+21
+
+
+From ThottbotBy Ihqdaa1 on 2008/04/05 (Patch 2.4.1)
+Subject: "Re: Gadgetzan Water Survey [2]"this quest is in tanaris and that screen shot is from feralas WTF?
+
+19
+
+
+From ThottbotBy br34dlol on 2008/04/04 (Patch 2.4.1)
+Subject: "Re: Gadgetzan Water Survey [2]"what the hell?
+
+15
+
+
+By 13910 (2,299 – 1·4·20) on 2007/01/24 (Patch 2.0.6)
+Make sure you've completed "The Ashenvale Hunt" before trying to get his claw(As well as the cat and bear equivilents)
+
+2
+
+
+
+Bolerro619 <Premium User> on 2019/11/03 (Classic)
+Completing "The Ashenvale Hunt" means talking to the turn in NPC a couple times. It does not complete on the first turn in. Make sure you get the message that the quest is completed.
+
+12
+
+
+By 107856 (177 – 2) on 2007/12/13 (Patch 2.3.0)
+Great & easy quests at 27. I'm BE Mage and was able to Solo Ursangous,Shadumbra and with one other person's help Sharptalon was a breeze.
+
+First start by talking to Senani Thunderheart :
+The Ashenvale Hunt quest (https://www.wowhead.com/wotlk/quest=6383) (https://www.wowhead.com/wotlk/npc=12696).
+Then you kill the 3 mobs and each item will start its own quest turn in back to Senani @ Splintertree Post
+
+Ursangous's Paw: just north of the Talondeep Path (39.67) 1950 xp
+(https://www.wowhead.com/wotlk/quest=23)
+Shadumbra's Head: just west of Raynetree Wood (54.54) 2200 xp
+(https://www.wowhead.com/wotlk/quest=24)
+Sharptalon's Claw: just south of Splintertree Post(73.61) 2450 xp
+(https://www.wowhead.com/wotlk/quest=2)
+
+Plus you get 3050xp for final completion of all 3.
+
+All together,it was over 3 bubbles in 27 and 5 bubbles into 28!
+
+6
+
+
+By BrokenHip (6,017 – 1·20·31) on 2007/10/25 (Patch 2.2.3)
+Thought i'd add that once you finish all 3 Ashenvale Hunt quests, you get a cloak and ~3000 xp
+
+6
+
+
+By 65203 (2,980 – 4·27) on 2008/10/05 (Patch 3.0.1)
+Just a minor point, this Q gives 250 TB rep, not 63 as stated above.
+
+5
+
+
+From AllakhazamBy mrmidnight on 2007/01/31 (Patch 2.0.6)
+Subject: "The Quest is not dropping"I know that I've killed this guy many times on other characters. But on my most recent character I have killed it at least 8 times and not once has he dropped it. I have been soloing him with no one helping me. Any advice? Maybe I need to be on a certain quest for it to even drop?
+
+-Midnight
+
+3
+
+
+
+mrmidnight on 2007/01/31 (Patch 2.0.6)Subject: "The Quest is not dropping"
+***EDIT***
+Ok so what I had to do was talk to Sesnani Thunderheart and Accept The Ashenvale Hunt, then keep talking to her and Complete The Ashenvale hunt. If you talk with her a third time she will talk about the different locations of the various beasts that you are hunting. I know that this post is mostly for my benefit, but if anyone else had any doubts...
+
+- Midnight
+
+5
+
+
+By 255307 (418 – 2·7) on 2008/12/14 (Patch 3.0.3)
+It counts for the achievement Loremaster of Kalimdor
+
+5
+
+
+By 233437 (1,709 – 2·14) on 2009/08/04 (Patch 3.1.3)
+This guy is possible to solo right as a shaman, i did it at level 20 as enhancement. Keep water shield and searing totem up, and try to get flame shock on him if possible. Auto-attack him and heal with Lesser Healing Wave once you get to about 50%. He'll go down eventually... but it might help to have a little luck too :]
+Last edited by 233437 on 2009/08/04 (Patch 3.1.3)
+
+5
+
+
+By Fuzzyknight (2,580 – 10·16) on 2019/09/02 (Classic)
+For anyone trying to get this quest on WoW Classic, I'm not sure if there's a level cap to when you can actually loot the mob. As a level 25 shaman I kited Sharptalon over to the guards (Did around 400 damage in the process) Had a level 27 friend in the group who did 15 damage to it. He was able to loot it, but I wasn't. Figured this was because of group loot so I did it again. I did 482 damage and then had the guards kill it, still unable to loot.
+Last edited by Fuzzyknight on 2019/09/02
+
+1
+
+
+
+xMovingTarget on 2019/09/12 (Classic)
+I killed him twice now solo and did not get a claw as lvl 27 rogue
+
+1
+
+
+
+Bolerro619 <Premium User> on 2019/11/03 (Classic)
+Make sure you have completed the Ashenvale Hunt. I did the same and didn't get it until after I turned in Ashenvale Hunt
+
+0
+
+
+
+lennble on 2020/06/10 (Classic)
+Can not confirm that completing "The Ashenvale hunt" is mandatory in order to loot the claw. I completed said Quest and killed Sharptalon twice and never got the claw.
+
+4
+
+
+By 172321 (1,111 – 3·11) on 2008/10/30 (Patch 3.0.2)
+I was kinda surprised, coz I soloed it as a 26lvl belf hunter with crappy gear mostly from ghostlands and that bow from Traitors Destruction (had it since 16lvl, 14.4dps bow, 832hp, 990mana. pet about 1050hp cat). It spawned next to me and attacked me, I sent pet, after a while I overaggroed my cat so the bird was attacking me, I tried to pull it to the UD camp there, but no action from them... I ended up with circa 15%hp, my pet with 500hp/1050 (used mend pet ofc:). It was probably just luck, dunno.
+Last edited by 172321 on 2008/10/31 (Patch 3.0.2)
+
+4
+
+
+By shankynation (3,064 – 14·20) on 2019/09/04 (Classic)
+Spawns exactly at /way 77.9 66.1
+
+Had a problem with this in group, all three of us completed the pre-req, but only one of us got the claw the first kill.
+3 more kills later and myself and my priest friend don't have the drop.
+
+We didn't talk to Senani Thunderheart in Splintertree..
+Last edited by shankynation on 2019/09/04
+
+3
+
+
+By Eversion (9,313 – 2·25·77) on 2007/03/26 (Patch 2.0.10)
+He's around 74,72 but he patrols a small area. It's a big blue bird.
+
+2
+
+
+From AllakhazamBy Cabon on 2004/12/10 (Patch 1.2.1)
+Subject: "Sharptalon"We killed him just SE of Splintree south of the road. Approx 92,54 with Cosmos mapping
+
+2
+
+
+From AllakhazamBy LifebloodAOTH on 2006/11/15 (Patch 1.12.1)
+Subject: "Kite"Solo'd at lvl 22 as a hunter kiting him up and down the road. Didn't take him to the guards wanted to see if I could do it without them. took awhile but with aspect and concussive he went down steady.
+
+2
+
+
+By 41762 (3,504 – 8·40) on 2007/06/10 (Patch 2.1.1)
+The claw won't drop for you unless you have done The Ashenvale Hunt quest (https://www.wowhead.com/wotlk/quest=6383) from Senani Thunderheart (https://www.wowhead.com/wotlk/npc=12696). All that you have to do for that quest is just talk to her.
+
+1
+
+
+From AllakhazamBy bleugh on 2006/04/18 (Patch 1.9.4)
+Subject: "yaay"2450 experience and 370 for killing it, not bad :-)
+
+1
+
+
+From AllakhazamBy Arinth on 2006/05/12 (Patch 1.10.2)
+Subject: "quest"bah! so this is a horde quest?
+
+1
+
+
+From AllakhazamBy Faceivore on 2006/09/22 (Patch 1.12.0)
+Subject: "say wut?"I don't know what thebamf here is talking about: this quest was the easiest I've done in a while because I got lucky and the guard helped. I happened to see him right at the bottom of Splintertree Post as I was leaving it, so I decided to finally see if I could take him at this level (29). threw on ampily curse, curse of agony, corruption, sicced my pet on him, and feared him: he ran into the guard and it was all over in a few seconds. Ran up and turned it in and went along with what I was doing. Fastest ~2600xp I've ever made
+
+1
+
+
+From AllakhazamBy granitewarrior on 2006/12/27 (Patch 2.0.1)
+Subject: "where?"where do u get the quest leading to this quest? i forgot...
+
+1
+
+
+By 15301 (144 – 1·0) on 2007/01/24 (Patch 2.0.6)
+If you're roughly 27-28 as long as you can get him about halfway and still live; drag him to the tiny forsaken encampment near his wandering path...the inflitraitors will attack, may take an attempt or two but its worth being able to complete the quest for more xp. I did this as BE paladin, not sure how well another type of class can do this. Make sure to heal yourselve immediately when his attention goes to NPCs, but afterwards continue to dmg him as much as possible.
+
+0
+
+
+
+174367 on 2008/07/17 (Patch 2.4.3)
+I am friendly with UC and pulling Sharptalon into the forsaken camp did nothing. Wait until he gets close to Splintertree Post at 71, 68 and then drag him to the Warsong Scouts at the base of the tower there.
+
+1
+
+
+By 10842 (238 – 1·2) on 2007/02/01 (Patch 2.0.6)
+Can someone post the coordinates where Sharptalon spawns? I know it's near town, but I can't find him.
+
+1
+
+
+From AllakhazamBy Vuu on 2007/12/04 (Patch 2.3.0)
+Subject: "sharptalon"Killed the guy 4 times before the damn claw dropped :/.
+
+1
+
+
+From AllakhazamBy Pegler on 2007/12/12 (Patch 2.3.0)
+Subject: "easy"soloed as a lvl 26 hunter, didnt even need the guards! pet aggro all the way
+
+1
+
+
+From AllakhazamBy Ruhnaui on 2008/01/23 (Patch 2.3.3)
+Subject: "No drop from him"I have the quest and have had the guards help with him twice and no claw dropped at all. No problems with either Shadumbra or Ursangous so I am wondering if he needs to be killed with NO NPC interference? I'm now at lvl 27 so I think I'll give him a shot with just my pet and see if it makes a difference.
+
+1
+
+
+By ngInit (3,330 – 9·16) on 2019/09/09 (Classic)
+Other Quest Parts in "The Ashenvale Hunt":
+Shadumbra's Head
+Ursangous's Paw
+Last edited by ngInit on 2019/09/09
+
+0
+
+
+By 22116 (259 – 1·2) on 2007/02/23 (Patch 2.0.8)
+I'm a level 28 BE hunter and i simply kited him back to splintertree post where the guards destroyed him. I don't know the co-ords, but he flies all around the area to the east of Splintertree.
+
+0
+
+
+By 49481 (847 – 1·7) on 2007/05/17 (Patch 2.0.12)
+as a 23 rogue, this was real easy... all i did was stand near the forsaken outpost, and when he saw me and aggroed me, i hit him a few times and backed up so the guards could get him. i never stopped swinging, but when he got near 40% health or so, i started hitting as hard as i could. he never aggroed me once the guards started hitting him and i got to loot. =)
+
+0
+
+
+By FuxieDK (60,347 – 9·36·208) <Premium User> on 2008/08/06 (Patch 2.4.3)
+4 attempts, no possiblity to loot.. I think it's safe to say, that if NPCs engage Sharptalon, you cannot get the claw, as it's simply not possible to loot the "bird"..
+
+-1
+
+
+From AllakhazamBy PizzaHash on 2005/09/06 (Patch 1.6.1)
+Subject: "Sharptalon"Soloed as a level 27 shaman, no big deal
+
+-1
+
+
+From AllakhazamBy thebamf on 2006/02/08 (Patch 1.9.3)
+Subject: "gaurds"yea you cant let the guards attack him.
+
+0
+
+
+
+wasseristfry on 2007/06/30 (Patch 2.1.2)Subject: "gaurds"
+You have to take down about half his health, then let the guards take him down, I did it no longer than half an hour ago.
+
+-1
+
+
+By sutasafaia (2,182 – 1·15·30) on 2008/12/25 (Patch 3.0.3)
+Just did this as a 28 Paladin, didn't lose more than 100 hp with Judgment of Light.
+
+-4
+
+
+By 10100_ (1,067 – 1·13) on 2007/06/10 (Patch 2.1.1)
+Solo'd as a lv 28 shadow priest. No help from other players or from NPC guards... Shadow priests just rock like that. ;b
